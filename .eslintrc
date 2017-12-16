@@ -1,0 +1,19 @@
+{
+  "globals": {
+    "expect": true,
+    "angular": true
+  },
+  "root": true,
+  "env": {
+    "browser": true,
+    "jasmine": true
+  },
+  "extends": [
+    "xo-space"
+  ],
+  "rules": {
+    "linebreak-style": 0,
+    "space-before-function-paren": "off",
+    "max-params": 1
+  }
+}
